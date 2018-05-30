@@ -1,0 +1,15 @@
+{
+    "description": "this better work",
+    "exclusion_criteria": [
+        "don't want"
+    ],
+    "inclusion_criteria": [
+        "do want"
+    ],
+    "search_to_pmids": {},
+    "tags": [
+        "Attention Shift",
+        "Attention Shifting"
+    ],
+    "unmapped_pmids": []
+}
