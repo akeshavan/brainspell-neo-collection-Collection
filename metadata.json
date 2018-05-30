@@ -6,7 +6,14 @@
     "inclusion_criteria": [
         "do want"
     ],
-    "search_to_pmids": {},
+    "search_to_pmids": {
+        "a string of searches": [
+            "29790260",
+            "29789379",
+            "29793077",
+            "29787866"
+        ]
+    },
     "tags": [
         "Attention Shift",
         "Attention Shifting"
